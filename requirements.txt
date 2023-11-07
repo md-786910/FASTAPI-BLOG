@@ -1,0 +1,11 @@
+psycopg2
+sqlalchemy==1.4.25
+
+psycopg2-binary
+uvicorn
+fastapi
+jose
+python-jose
+passlib[bcrypt]
+jwt
+bcrypt
